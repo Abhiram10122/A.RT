@@ -14,8 +14,8 @@ export default function Home() {
       </div>
 
       <h1 className="head_text">
-        Have a conversation with <br className="max-md:hidden" />
-        <span className="orange_gradient"> EDITH</span>
+        Summarize Articles with <br className="max-md:hidden" />
+        <span className="orange_gradient"> Saturday</span>
       </h1>
       <h2 className="desc">
         Simplify your reading with Sumz, an open source article summarizer that
